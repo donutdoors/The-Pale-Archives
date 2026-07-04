@@ -1,5 +1,4 @@
 <html lang ="en">
-
 <html>
 <head>
 <meta charset="utf-8"/>
@@ -12,6 +11,6 @@
 	<main class="container">
 		<header>
 			<nav class="nav">
-				<h2 class="nav_logo"><a href="#">Six Seven</a></h2>
+				<h2 class="nav_logo"><a href="#">The Pale Archives</a></h2>
 		</header>
 </body>
