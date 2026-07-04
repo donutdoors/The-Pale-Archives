@@ -13,6 +13,3 @@
 			<nav class="nav">
 				<h2 class="nav_logo"><a href="#">The Pale Archives</a></h2>
 			</nav>
-		</header>
-	</main>
-</html>
